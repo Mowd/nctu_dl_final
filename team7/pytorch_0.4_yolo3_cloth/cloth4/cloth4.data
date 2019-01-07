@@ -1,0 +1,5 @@
+classes = 8
+train  = /media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/trainlist_1212.txt
+valid  = /media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/validlist_1212.txt
+names =  /media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/cloth4.names
+backup =  /media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/backup

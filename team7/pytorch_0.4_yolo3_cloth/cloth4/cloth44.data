@@ -1,0 +1,5 @@
+classes = 8
+train  = /home/dllab/tmp/NCTU_DLSR_final_project/team7/objection_detection/cloth4/trainlist_0106.txt
+valid  = /home/dllab/tmp/NCTU_DLSR_final_project/team7/objection_detection/cloth4/validlist_0106.txt
+names =  /home/dllab/tmp/NCTU_DLSR_final_project/team7/objection_detection/cloth4/cloth44.names
+backup =  /home/dllab/tmp/NCTU_DLSR_final_project/team7/objection_detection/cloth4/backup

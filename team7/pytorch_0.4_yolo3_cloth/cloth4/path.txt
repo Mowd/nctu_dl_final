@@ -1,0 +1,10 @@
+input_dir
+SRC_DIR=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/images
+LABEL_DIR=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/labels
+names=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/cloth4.names
+
+output_dir
+TRAIN_LIST=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/trainlist_1212.txt
+VAL_LIST=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/validlist_1212.txt
+TEST_LIST=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/testlist_1212.txt
+GT_LIST=/media/e200/BackupUbuntu/Documents/pytorch-0.4-yolov3/cloth4/GT_testlist_clothes.txt
